@@ -1,7 +1,7 @@
 # 🤖 Frontier-Based Exploration with Weighted Goal Selection & Dynamic Replanning
 
 > Mobile Robotics & Navigation · Universitat Politècnica de Catalunya (UPC)  
-> **Author:** Mohammad Alikhani Najafabadi
+> **Author:** Marco Alikhani
 > **Date:** 28 May 2025
 
 This project benchmarks a **hybrid frontier-scoring rule** and a **distance-triggered replanner** to cut total travel during autonomous map exploration.  
